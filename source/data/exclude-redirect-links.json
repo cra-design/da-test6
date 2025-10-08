@@ -1,0 +1,34 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html",
+    "destination": "/da-test6/corporate/contact-information.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html",
+    "destination": "/da-test6/corporate/contact-information/tax-services-offices-tax-centres.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/check-cra-processing-times.html",
+    "destination": "/da-test6/corporate/contact-information/check-cra-processing-times.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/online-chat.html",
+    "destination": "/da-test6/corporate/contact-information/online-chat.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/non-resident-gst-hst-enquiries.html",
+    "destination": "/da-test6/corporate/contact-information/non-resident-gst-hst-enquiries.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html",
+    "destination": "/da-test6/services/e-services/cra-login-services.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/about-cra-sign-in-services.html",
+    "destination": "/da-test6/services/e-services/cra-login-services/about-cra-sign-in-services.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals.html",
+    "destination": "/da-test6/services/e-services/digital-services-individuals.html"
+  }
+]
